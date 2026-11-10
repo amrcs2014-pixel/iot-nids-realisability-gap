@@ -22,6 +22,15 @@ preferred-citation:
   type: article
   title: "Realisable adversarial evasion of IoT intrusion detectors: a reproducible digital-twin benchmark separating problem-space physics from training-time robustness"
   authors:
+    - family-names: Alomari
+      given-names: Tariq
+      affiliation: "Irbid National University, Irbid, Jordan"
+    - family-names: Al-tahat
+      given-names: Said
+      affiliation: "Department of Cyber Security, Faculty of Information Technology, AAU, Jordan"
+    - family-names: Hammed
+      given-names: "Taisir Mohammed"
+      affiliation: "Department of Computer Science, Faculty of Science and Information Technology, Irbid National University, Irbid, Jordan"
     - family-names: Abdelhaliem
       given-names: "Amr H."
       affiliation: "Department of Cyber Security, Faculty of Science and Information Technology, Irbid National University, Irbid, Jordan"
