@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "iot-nids-realisability-gap: a reproducible digital-twin benchmark for the realisability gap of flow-based IoT intrusion detectors"
+abstract: "Analysis code for measuring how much feature-space adversarial evasion of flow-based IoT intrusion detectors a host-only attacker can realise as executed, functionality-checked traffic, in a reproducible Containernet/Open vSwitch digital twin with MQTT, CoAP and HTTP services."
+type: software
+authors:
+  - family-names: Abdelhaliem
+    given-names: "Amr H."
+    affiliation: "Department of Cyber Security, Faculty of Science and Information Technology, Irbid National University, Irbid, Jordan"
+version: "1.0.0"
+date-released: "2026-11-10"
+license: MIT
+repository-code: "https://github.com/amrcs2014-pixel/iot-nids-realisability-gap"
+keywords:
+  - intrusion detection
+  - Internet of Things
+  - adversarial machine learning
+  - problem-space attacks
+  - digital twin
+  - network emulation
+preferred-citation:
+  type: article
+  title: "Realisable adversarial evasion of IoT intrusion detectors: a reproducible digital-twin benchmark separating problem-space physics from training-time robustness"
+  authors:
+    - family-names: Abdelhaliem
+      given-names: "Amr H."
+      affiliation: "Department of Cyber Security, Faculty of Science and Information Technology, Irbid National University, Irbid, Jordan"
+  year: 2026
+  notes: "Manuscript under review."
